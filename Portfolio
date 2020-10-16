@@ -1,0 +1,32 @@
+<html>
+<body>
+<h1>Portfolio Concept</h1>
+<hr width="100%" />
+<p><b>Table of contents</b></p>
+<o>
+<li>Engineering</li>
+<li>Programming</li>
+<li>PR</li>
+</o>
+<hr width = "100%" />
+<h3>Engineering</h3>
+<p>placeholder</p>
+<hr width="100%" />
+<h3>Programming</h3>
+<p>placeholder</p>
+<hr width="100%" />
+<h3>PR</h3>
+<p>placeholder</p>
+<hr width="100%" />
+<p><b>Credits:</b></p>
+<o>
+<li><i>Person, position</i></li>
+<li><i>Person, position</i></li>
+<li><i>Person, position</i></li>
+<li><i>Person, position</i></li>
+<li><i>Person, position</i></li>
+<li><i>Person, position</i></li>
+<li><i>Person, position</i></li>
+</o>
+</body>
+</html>
